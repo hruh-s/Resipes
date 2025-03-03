@@ -5,4 +5,3 @@
 - [Картофель «Айдахо](idahopotatoes.md)
 - [Банановый хлеб](bananabread.md)
 
-
